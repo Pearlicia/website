@@ -1,0 +1,43 @@
+.profile-pic {
+  cursor: pointer;
+}
+
+.animate-box.fadeInLeft.animated {
+  height: 50px;
+  margin-bottom: 0px;
+}
+
+.animate-box.fadeInRight.animated {
+  height: 50px;
+  margin-bottom: 0px;
+}
+
+div.row.banner {
+  background-color: rgba(150, 150, 200, 0.7);
+  border-radius: 20px;
+  box-shadow: 1px 1px 4px 2px #234567;
+  padding-top: 10px;
+  animation: dropdown 0.4s ease-in-out;
+  position: relative;
+  top: 0px;
+  transform: scale(1);
+}
+
+@keyframes dropdown {
+  from {
+    top: -300px;
+    transform: scale(0.5);
+    opacity: 0.3;
+  }
+  to {
+    top: 0px;
+    transform: scale(1);
+    opacity: 1;
+  }
+}
+
+div.banner-text > h3 {
+  color: rgb(50, 50, 50) !important;
+  font-weight: bold !important;
+  font-family: cursive !important;
+}
