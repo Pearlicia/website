@@ -40,7 +40,6 @@ class MainSkills extends Component {
                 </span>
                 <div className="desc">
                   <h5>JavaScript</h5>
-                  <h5>(ES5, ES6)</h5>
                   {/* <p>3 Years</p> */}
                 </div>
               </div>
@@ -108,8 +107,6 @@ class MainSkills extends Component {
                 </span>
                 <div className="desc">
                   <h5>Angular</h5>
-                  <h5>(8, 9)</h5>
-                  {/* <p>3 Years</p> */}
                 </div>
               </div>
             </div>
@@ -125,8 +122,6 @@ class MainSkills extends Component {
                 </span>
                 <div className="desc">
                   <h5>MongoDB</h5>
-                  <h5>&nbsp;</h5>
-                  {/* <p>3 Years</p> */}
                 </div>
               </div>
             </div>
@@ -142,8 +137,6 @@ class MainSkills extends Component {
                 </span>
                 <div className="desc">
                   <h5>Python</h5>
-                  <h5>(3.x)</h5>
-                  {/* <p>3 Years</p> */}
                 </div>
               </div>
             </div>

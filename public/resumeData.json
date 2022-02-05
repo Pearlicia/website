@@ -149,6 +149,12 @@
   "portfolio": {
     "projects": [
       {
+        "title": "Pearlicia-Clothing",
+        "category": "An Ecommerce website for cloths",
+        "image": "pearlicia-clothing.png",
+        "url": "https://pearlicia-clothing.vercel.app/"
+      },
+      {
         "title": "MyReads",
         "category": "A book reading app",
         "image": "myreads.png",
